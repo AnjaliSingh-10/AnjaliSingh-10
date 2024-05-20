@@ -1,4 +1,4 @@
-![logo] ()
+![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi ⭐ welcome to Anjali profile!👋</h1>
 <h3 align="center">I love programming,writing, reading and speaking Throughout my learning journey, I've developed a profound passion for crafting efficient and innovative solutions through coding</h3>
 <img align="right" alt="coding" width="400" height="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
