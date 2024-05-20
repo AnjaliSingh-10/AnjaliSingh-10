@@ -1,7 +1,7 @@
 ![logo] ()
 <h1 align="center">Hi ⭐ welcome to Anjali profile!👋</h1>
 <h3 align="center">I love programming,writing, reading and speaking Throughout my learning journey, I've developed a profound passion for crafting efficient and innovative solutions through coding</h3>
-<img align="right" alt="coding" width="400" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtGwTMbsdRBR58yKjoKsJ1heb62m-WC5DlizfoHbeow&s">
+<img align="right" alt="coding" width="400" height="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 ### 💫 Talking about Personal Stuff::
 - 👨‍🎓 I’m a Electronic and communication engineer...
